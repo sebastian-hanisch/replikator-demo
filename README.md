@@ -1,7 +1,6 @@
 # Evolutionäre Dynamik: warum Tit-for-Tat nicht stabil ist – Streamlit-Demo
 
-<!-- Nach dem Deploy direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-replikator-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-replikator-demo.streamlit.app/)**
 
 Viertes Stück der **Wiederholte-Spiele-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Nachfolger von [rauschen-kooperation-demo](https://sebastianhanisch-rauschen-kooperation-demo.streamlit.app/): dort ging es um Fehler zwischen zwei festen Partnern, hier
